@@ -27,6 +27,10 @@
 
 ---
 
+## Difference
+
+- date-picker add seconds
+
 ## Features
 
 - 65+ Reusable components
